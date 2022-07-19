@@ -14,7 +14,7 @@ glayer = 81
 cuttail = 0 
 d_inf = 1.225
 U_inf = 0.005*343
-sim_data_path = "~/AIRFOIL/Airfoil_3_5_5/"
+sim_data_path = "~/AIRFOIL/Airfoil_Re3_Ma5_AOA5/"
 res_data_path = "~/DaDri/AirfoilDB/"
 Tecplot_header_in = "variables=X, Y, Z, Rho, U, V, W, P, T, Vor, Qcri"
 Tecplot_header_out = "variables=X, Y, Rho, U, V, P"
